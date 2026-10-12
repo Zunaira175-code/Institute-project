@@ -10,7 +10,7 @@ h1 {
 button {
   padding: 10px 20px;
   background: blue;
-  color: white;
-  border: none;
+  color: rgb(255, 29, 29);
   border-radius: 5px;
+
 }
